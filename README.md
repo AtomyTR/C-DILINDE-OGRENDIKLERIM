@@ -1,5 +1,5 @@
-# C-DILINDE-OGRENDIKLERIM
-C programlama dilinde öğrendiğim ve öğretirken kullandığım kaynakları, bilgileri burada paylaşıyorum.
+# C KÜTÜPHANEN
+C programlama dilinde araştırıp öğrendiğim ve öğretirken kullandığım kaynakları, bilgileri burada paylaşıyorum.
 
 ------------------
 
