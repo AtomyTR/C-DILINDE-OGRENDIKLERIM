@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665264899 source:c:\users\yigitakinkaya\desktop\quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
